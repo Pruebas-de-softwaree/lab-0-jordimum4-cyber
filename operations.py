@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("la divisio de -9 / 0 es ",divide(-9,0))
+    print("la division de -9 / 0 es ",divide(-9,0))
 
     print("end test")
 
