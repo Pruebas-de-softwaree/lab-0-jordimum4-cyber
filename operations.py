@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("la raiz de -9 es ",square_root(-9))
+    print("la divisio de -9 / 0 es ",divide(-9,0))
 
     print("end test")
 
