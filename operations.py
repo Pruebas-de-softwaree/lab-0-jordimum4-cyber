@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("la raiz de 5 es ",square_root(5))
+    print("la raiz de -9 es ",square_root(-9))
 
     print("end test")
 
